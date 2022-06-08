@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhargav-2112
+- 👋 Hi, I’m @bhargav
 - 👀 I’m interested in watching movies and travelling
 - 🌱 I’m currently learning MERN
 
