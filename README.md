@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhargav
-- 👀 I’m interested in watching movies and travelling
+- 👀 I’m interested in watching movies, travelling, hanging out with closed ones and writing JS...
 - 🌱 I’m currently learning MERN
 
 <!---
